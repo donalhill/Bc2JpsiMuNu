@@ -5,10 +5,13 @@ Using Google Colab for analysis means we don't need to worry about any Python en
 
 ## Overview of notebooks
 
+The notebooks can be studied in the order they appear in the table below.
+
 |Notebook |Content|
 |-----|--------|
 |[Bc2JpsiMuNu_RapidSim](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim.ipynb)| Load RapidSim MC, plot some variables, and calculate some new variables       |
 |[Bc2JpsiMuNu_RapidSim_fit](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim_fit.ipynb)| Fit the truth-level 3D decay angle distribution using zfit, to measure helicity amplitudes       |
+| [Bc2JpsiMuNu_RapidSim_LHCb](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim_LHCb.ipynb)| Load RapidSim MC generated inside LHCb acceptance, and calculate truth-level angles and q2 |
 
 ## Useful links
 

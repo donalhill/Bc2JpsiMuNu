@@ -15,6 +15,7 @@ The notebooks can be studied in the order they appear in the table below.
 | [Bc2JpsiMuNu_RapidSim_LHCb_template_weights](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim_LHCb_template_weights.ipynb) | Calculate per-event weights to make templates for each angular term |
 | [Bc2JpsiMuNu_RapidSim_LHCb_templates](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim_LHCb_templates.ipynb) | Use per-event weights to make 3D histogram templates for each angular term |
 | [Bc2JpsiMuNu_RapidSim_LHCb_binned_fit](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim_LHCb_binned_fit.ipynb) | Perform a binned template fit to the reconstructed decay angles |
+| [Bc2JpsiMuNu_RapidSim_LHCb_binned_fit_new](https://github.com/donalrinho/Bc2JpsiMuNu/blob/main/Bc2JpsiMuNu_RapidSim_LHCb_binned_fit_new.ipynb) | Perform a binned template fit to the reconstructed decay angles, using the latest binned fitting tools in zfit |
 
 ## Useful links
 

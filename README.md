@@ -19,6 +19,7 @@ The notebooks can be studied in the order they appear in the table below.
 
 ## Useful links
 
+* [Learn Python](https://learnpython.org)
 * [Python tutorials for high-energy physics](https://hsf-training.github.io/analysis-essentials/python/README.html)
 * [scikit-hep for info on different high-energy physics software](https://scikit-hep.org)
 * [scikit-learn for machine learning](https://scikit-learn.org)
